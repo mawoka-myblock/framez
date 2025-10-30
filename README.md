@@ -1,6 +1,6 @@
 # framez
 
-![Build Status](https://github.com/JadKHaddad/framez/actions/workflows/build-and-test.yml/badge.svg)
+![Build Status](https://github.com/zealloc/framez/actions/workflows/build-and-test.yml/badge.svg)
 [![crates.io](https://img.shields.io/crates/v/framez.svg)](https://crates.io/crates/framez)
 [![Crates.io (MSRV)](https://img.shields.io/crates/msrv/framez)](https://crates.io/crates/framez)
 [![docs.rs](https://docs.rs/framez/badge.svg)](https://docs.rs/framez)

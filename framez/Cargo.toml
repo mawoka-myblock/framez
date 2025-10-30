@@ -7,7 +7,7 @@ authors = ["Jad K. Haddad <jadkhaddad@gmail.com>"]
 license = "MIT OR Apache-2.0"
 readme = "../README.md"
 description = "A zerocopy codec for encoding and decoding data in no_std environments."
-repository = "https://github.com/JadKHaddad/framez"
+repository = "https://github.com/zealloc/framez"
 keywords = ["codec", "no_std", "embedded", "encode", "decode"]
 
 [features]
